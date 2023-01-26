@@ -2,3 +2,4 @@
 
 - Associação através de module.exports
 - Poliformismo, que é ato de um objeto poder assumir diferentes formas
+- Herança (classe mãe, classe filha)
